@@ -13,7 +13,7 @@ ni borrando el proyecto antigüo de github
 probar con carpeta nueva y con las instrucciones nuevas 
 agregando user y username con:
 
-git config --global user.email hsuarezb1103@gmail.com
+git config --global user.email escribiremail@gmail.com
 			y
 git config --global username hsuarezb1103
 ------------------------------------------------------
