@@ -6,3 +6,9 @@ Prueba de líneas, cuarta línea
 Prueba de líneas, quinta línea
 Prueba de líneas, sexta línea
 Prueba de líneas, Séptima línea
+
+Recordar que los archivos ya usados y asociados a otros proyectos no se han podido subir a proyectos nuevos
+ni borrando el proyecto antigüo de github
+
+probar con carpeta nueva y con las instrucciones nuevas 
+agregando user y username
